@@ -1,4 +1,4 @@
-# renato-cm
+# renato-chagas
 
 <h2 align="left">Hi👋! My name is Renato and I'm a programmer</h2>
 
@@ -6,8 +6,8 @@
 
 <div align="center">
   <div style="display: flex; flex-direction: row; gap: 10px; align-items: center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=renato-cm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renato-cm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=renato-chagas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renato-chagas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   </div>
 </div>
 
@@ -17,7 +17,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=renato-cm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=renato-chagas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/renato-cm/renato-cm/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/renato-cm/renato-chagas/output/snake.svg" alt="Snake animation" />
 
 ###
